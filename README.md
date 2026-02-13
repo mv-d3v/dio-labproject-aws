@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 13/02/2025
-Empresa: Abstergo Industries
-Responsável: Marcos Vinicius Alves de Souza
+- Data: 13/02/2025
+- Empresa: Abstergo Industries
+- Responsável: Marcos Vinicius Alves de Souza
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Marcos Vinicius Alves de Souza. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
@@ -29,5 +29,6 @@ Etapa 3:
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado redução imediata de 30–50% nos custos de infraestrutura AWS (dependendo da proporção de cada workload), aumento da eficiência operacional por meio de recursos dimensionados corretamente e maior previsibilidade orçamentária. Isso permitirá realocar verba para iniciativas estratégicas, como expansão de novos produtos e adoção de tecnologias emergentes. Recomenda-se a continuidade da utilização das ferramentas implementadas, monitoramento contínuo via AWS Cost Optimization Hub e AWS Cost Explorer, além da busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 Assinatura do responsável pelo Projeto:
+
 
 Marcos Vinicius Alves de Souza
